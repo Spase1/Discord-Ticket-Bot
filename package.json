@@ -10,6 +10,6 @@
   "author": "Wick",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "discord.js": "^13.13.1"
   }
 }
